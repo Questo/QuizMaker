@@ -2,7 +2,8 @@
 
 namespace QuizMaker.Domain
 {
-    public interface IAggregateRoot
+    public class Quiz
     {
+        public string Title { get; set; }
     }
 }
