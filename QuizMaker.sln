@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{85248CBB-D47
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizMaker", "src\QuizMaker\QuizMaker.csproj", "{53900D47-9694-41EC-BD8E-3101054F2CD3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{FDCC9D1E-82C7-4704-B535-0A83ECA18752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizMakerTests", "tests\QuizMakerTests\QuizMakerTests.csproj", "{385E62F8-BC7E-4E12-9445-E81A277C20F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +36,21 @@ Global
 		{53900D47-9694-41EC-BD8E-3101054F2CD3}.Release|x64.Build.0 = Release|Any CPU
 		{53900D47-9694-41EC-BD8E-3101054F2CD3}.Release|x86.ActiveCfg = Release|Any CPU
 		{53900D47-9694-41EC-BD8E-3101054F2CD3}.Release|x86.Build.0 = Release|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Debug|x64.Build.0 = Debug|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Debug|x86.Build.0 = Debug|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Release|x64.ActiveCfg = Release|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Release|x64.Build.0 = Release|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Release|x86.ActiveCfg = Release|Any CPU
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{53900D47-9694-41EC-BD8E-3101054F2CD3} = {85248CBB-D47A-4A59-8661-F2490358E4CC}
+		{385E62F8-BC7E-4E12-9445-E81A277C20F4} = {FDCC9D1E-82C7-4704-B535-0A83ECA18752}
 	EndGlobalSection
 EndGlobal
