@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\QuizMaker.Domain\QuizMaker.Domain.csproj" />
+    <ProjectReference Include="..\..\src\QuizMaker\QuizMaker.csproj" />
   </ItemGroup>
 
 </Project>

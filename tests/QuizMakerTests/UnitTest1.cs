@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace QuizMaker.DomainTests
+namespace QuizMakerTests
 {
     [TestClass]
     public class UnitTest1
